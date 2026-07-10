@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:8080/api', // Connect to Node Express Port 8080
+  baseURL: `${import.meta.env.VITE_API_URL}/api`,
 });
 
 // Automatically inject JWT authentication token in headers
