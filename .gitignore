@@ -40,6 +40,7 @@ ENV/
 env/
 .pytest_cache/
 .ipynb_checkpoints/
+<<<<<<< HEAD
 ml-service/dataset/placement_dataset.csv
 ml-service/*.pkl
 ml-service/placement_model.pkl
@@ -47,6 +48,8 @@ ml-service/role_model.pkl
 ml-service/vectorizer.pkl
 ml-service/role_descriptions.pkl
 
+=======
+>>>>>>> 5a8f23006e4df48cae4f8e81d2290d4a0b4d50ba
 # Multer uploads
 server/uploads/*
 !server/uploads/.gitkeep

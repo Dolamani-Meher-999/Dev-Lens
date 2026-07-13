@@ -1,7 +1,16 @@
 flask
+<<<<<<< HEAD
+=======
+flask-cors
+gunicorn
+>>>>>>> 5a8f23006e4df48cae4f8e81d2290d4a0b4d50ba
 pandas
 numpy
 scikit-learn
 xgboost
+<<<<<<< HEAD
 joblib
 flask-cors
+=======
+joblib
+>>>>>>> 5a8f23006e4df48cae4f8e81d2290d4a0b4d50ba
